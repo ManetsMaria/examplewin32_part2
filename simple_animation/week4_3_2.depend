@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459268066 source:e:\ещё теория\week4_3_2\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	<ostream>
+	<stdio.h>
+

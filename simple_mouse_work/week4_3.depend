@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1459261444 source:e:\ещё теория\week4_3\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<map>
+	<iterator>
+

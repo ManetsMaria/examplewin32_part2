@@ -1,0 +1,26 @@
+﻿Build started 08.10.2016 21:30:19.
+     1>Project "D:\ещё теория\App1\App1\App1\App1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\App1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\App1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt App1.cpp
+         App1.cpp
+     1>d:\ещё теория\app1\app1\app1\app1.cpp(250): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ещё теория\app1\app1\app1\app1.cpp(257): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ещё теория\app1\app1\app1\app1.cpp(296): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ещё теория\app1\app1\app1\app1.cpp(303): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ещё теория\app1\app1\app1\app1.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ещё теория\app1\app1\app1\app1.cpp(346): warning C4018: '<' : signed/unsigned mismatch
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\App1.res" App1.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ещё теория\App1\App1\Debug\App1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ещё теория\App1\App1\Debug\App1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ещё теория\App1\App1\Debug\App1.lib" /MACHINE:X86 Debug\App1.res
+         Debug\App1.obj
+         Debug\stdafx.obj
+         LINK : D:\ещё теория\App1\App1\Debug\App1.exe not found or not built by the last incremental link; performing full link
+         App1.vcxproj -> D:\ещё теория\App1\App1\Debug\App1.exe
+     1>Done Building Project "D:\ещё теория\App1\App1\App1\App1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.59
